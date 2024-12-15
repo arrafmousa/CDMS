@@ -35,10 +35,10 @@ This project involves generating SMILES formulas for chemical compounds based on
 
 ## Files
 
-- `models/retriever.py`: Contains the `SearchableRequirements` class for searching and retrieving requirements and SMILES.
-- `models/test_sample.py`: Contains the `TestSample` class for handling test samples.
-- `experiments/20chi-sumary.py`: Script for extracting statistics and validating model outputs.
 - `run_simulation.py`: Main script to run the simulation and validate the generated SMILES formulas.
+- `models/retriever.py`: Contains the `SearchableRequirements` class for searching and retrieving requirements and SMILES, used for MolReGPT implemetnation.
+- `models/test_sample.py`: Contains the DTO `TestSample` class for handling test samples.
+- `experiments/20chi-sumary.py`: Script for extracting statistics and validating model outputs.
 
 ## Contributing
 
