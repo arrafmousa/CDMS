@@ -14,11 +14,11 @@ This project involves generating SMILES formulas for chemical compounds based on
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/yourproject.git
+    git clone https://anonymous.4open.science/r/CDMS-C08D/
     ```
 2. Navigate to the project directory:
     ```sh
-    cd yourproject
+    cd CDMS-C08D
     ```
 3. Install the required dependencies:
     ```sh
